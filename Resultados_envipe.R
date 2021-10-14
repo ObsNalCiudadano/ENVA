@@ -1801,16 +1801,3 @@ Respuestas <-
 
 # Genera un excel con la base de datos generada anteriormente -
 write.xlsx(Respuestas, file = "Datos/Respuestas.xlsx", sheetName = "Respuestas")
-
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
